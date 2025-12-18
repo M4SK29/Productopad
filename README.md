@@ -3,8 +3,9 @@ My macropad for productivity, allowing to open and close apps at the click of bu
 
 ## Notes
 1. I'll not be attaching the 4 pin headers themselves to the pcb but will use their holes and solder my cables to them to make it easier.
-2. The platform sorta thing you see on the design is the place for the 0.91 inch oled. tightly fitted, yes and I won't be putting headers on that either I'll just solder the cables to the holes
-3. To fix the screen to the platform I'll probably just hotglue it. It's convenient and can be removed when needed then
+2. The platform sorta thing you see on the design is the place for the 0.91 inch oled. tightly fitted, yes and I won't be putting headers on that either I'll just solder the cables to the holes.
+3. To fix the screen to the platform I'll probably just hotglue it. It's convenient and can be removed when needed then.
+4. Yes the code is written by ChatGPT, so I'll probably have to edit it and make it work when I receive the parts.
 
 ## Hackpad
 <img width="1223" height="733" alt="image" src="https://github.com/user-attachments/assets/be54d94d-6b93-4e58-9f70-c1215634c327" />
