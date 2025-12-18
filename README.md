@@ -20,6 +20,7 @@ My macropad for productivity, allowing to open and close apps at the click of bu
 
 <img width="905" height="620" alt="image" src="https://github.com/user-attachments/assets/c1382de7-16ce-4c47-a1c5-3690813ba30c" />
 This is the base of it and
+
 <img width="1034" height="659" alt="image" src="https://github.com/user-attachments/assets/f588a550-38f8-402a-af87-efa148d2cd2a" />
 this is the top
 
