@@ -43,3 +43,4 @@ top on base:
 5. MX-Style switches(4)
 6. M3x16mm screws(6)
 7. 3D Printed case(I don't have a 3D printer)
+8. Jumper cables(4 male to male)(or I'll get that by myself from somewhere cuz it wasnt there in the list of approved parts)
