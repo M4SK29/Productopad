@@ -34,6 +34,13 @@ PCB in base:
 top on base:
 <img width="1034" height="498" alt="image" src="https://github.com/user-attachments/assets/9211b6fc-a9ea-445e-a1ca-1ba2b3b40f92" />
 
+### Fitting the OLED Display:
+The OLED display will be put right here(in the following image) where I've cut a place for it to be there(exact dimensions)
+<img width="1130" height="597" alt="image" src="https://github.com/user-attachments/assets/1d1032f2-f51f-4277-8cd7-18dbcf93243d" />
+
+After that I also have made some space for the jumper cables that I'll be soldering to it, here-
+<img width="982" height="587" alt="image" src="https://github.com/user-attachments/assets/2e88bea4-3e04-4c01-bf92-3b53a5fce5b6" />
+
 ## List of parts needed-
 (the number in brackets is the needed quantity)
 1. Seeed XIAO RP2040(1)
